@@ -1,0 +1,517 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ASPNETCore_DB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ASPNETCore_DB.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\121967442.jpg",
+      "PackagePath": "staticwebassets\\images\\121967442.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\1ae2615d-f48f-46d6-97ab-da46a02d2831.jpg",
+      "PackagePath": "staticwebassets\\images\\1ae2615d-f48f-46d6-97ab-da46a02d2831.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\4.jpeg",
+      "PackagePath": "staticwebassets\\images\\4.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\41v8LrBd+1L._AC_SY1000_.jpg",
+      "PackagePath": "staticwebassets\\images\\41v8LrBd+1L._AC_SY1000_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\4e13f1c5-cee7-4199-9960-776f46952a06.jpg",
+      "PackagePath": "staticwebassets\\images\\4e13f1c5-cee7-4199-9960-776f46952a06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\5163hxDdXYL._AC_SY580_.jpg",
+      "PackagePath": "staticwebassets\\images\\5163hxDdXYL._AC_SY580_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\51EDtk+1rNL._AC_SY580_.jpg",
+      "PackagePath": "staticwebassets\\images\\51EDtk+1rNL._AC_SY580_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\51HLH0o3IgL._SL500_.jpg",
+      "PackagePath": "staticwebassets\\images\\51HLH0o3IgL._SL500_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\51QKTnYKFkL._AC_SY780_.jpg",
+      "PackagePath": "staticwebassets\\images\\51QKTnYKFkL._AC_SY780_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\51kpoART0HL._AC_SY1000_.jpg",
+      "PackagePath": "staticwebassets\\images\\51kpoART0HL._AC_SY1000_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\51sAY6w6xIL._AC_SY780_.jpg",
+      "PackagePath": "staticwebassets\\images\\51sAY6w6xIL._AC_SY780_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\51x60-GHxuL._AC_SY780_.jpg",
+      "PackagePath": "staticwebassets\\images\\51x60-GHxuL._AC_SY780_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\540e2f87-bca0-4e10-979a-53c0aa3999e6.jpg",
+      "PackagePath": "staticwebassets\\images\\540e2f87-bca0-4e10-979a-53c0aa3999e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\5697af94-d10a-46cc-9953-06d830ac4af0.jpg",
+      "PackagePath": "staticwebassets\\images\\5697af94-d10a-46cc-9953-06d830ac4af0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\60721505.jpg",
+      "PackagePath": "staticwebassets\\images\\60721505.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\61S2MXinoaL._AC_UF1000,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\images\\61S2MXinoaL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\7157CblHHcL.jpg",
+      "PackagePath": "staticwebassets\\images\\7157CblHHcL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\7186aAI6FFL.jpg",
+      "PackagePath": "staticwebassets\\images\\7186aAI6FFL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\71TYMvaPxAL._AC_UF1000,1000_QL80_.jpg",
+      "PackagePath": "staticwebassets\\images\\71TYMvaPxAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\74613fe1-1257-4f5b-acfd-fbde94da8c39.jpg",
+      "PackagePath": "staticwebassets\\images\\74613fe1-1257-4f5b-acfd-fbde94da8c39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\74849af7-e782-4704-9ca3-f6192d40e786.jpg",
+      "PackagePath": "staticwebassets\\images\\74849af7-e782-4704-9ca3-f6192d40e786.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\7819b64a-ddf1-4e8a-90c1-23d188c30492.jpg",
+      "PackagePath": "staticwebassets\\images\\7819b64a-ddf1-4e8a-90c1-23d188c30492.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\81PjO4IwooL.jpg",
+      "PackagePath": "staticwebassets\\images\\81PjO4IwooL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\9780356506470_0abaadc6-56f4-4391-811a-386eae18d2d1.webp",
+      "PackagePath": "staticwebassets\\images\\9780356506470_0abaadc6-56f4-4391-811a-386eae18d2d1.webp"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\9780451226501.jpg",
+      "PackagePath": "staticwebassets\\images\\9780451226501.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\9e663405-2ecc-40d9-8006-48415fbacd61.png",
+      "PackagePath": "staticwebassets\\images\\9e663405-2ecc-40d9-8006-48415fbacd61.png"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\A shadow in the reaping.webp",
+      "PackagePath": "staticwebassets\\images\\A shadow in the reaping.webp"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\Green_Eggs_and_Ham.jpg",
+      "PackagePath": "staticwebassets\\images\\Green_Eggs_and_Ham.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\IMG-20250509-WA0010.jpg",
+      "PackagePath": "staticwebassets\\images\\IMG-20250509-WA0010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\Original-very-hungry--cat-001.webp",
+      "PackagePath": "staticwebassets\\images\\Original-very-hungry--cat-001.webp"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\The Cat in the Hat.jpeg",
+      "PackagePath": "staticwebassets\\images\\The Cat in the Hat.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\Where_The_Wild_Things_Are_(book)_cover.jpg",
+      "PackagePath": "staticwebassets\\images\\Where_The_Wild_Things_Are_(book)_cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\author meet and greet.jpg",
+      "PackagePath": "staticwebassets\\images\\author meet and greet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\b3a3571f-bd3b-4744-a7cc-bbe0b6f9f2d2.jpg",
+      "PackagePath": "staticwebassets\\images\\b3a3571f-bd3b-4744-a7cc-bbe0b6f9f2d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\blackfriday.jpg",
+      "PackagePath": "staticwebassets\\images\\blackfriday.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\book1.jpg",
+      "PackagePath": "staticwebassets\\images\\book1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\book2.jpg",
+      "PackagePath": "staticwebassets\\images\\book2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\book3.jpg",
+      "PackagePath": "staticwebassets\\images\\book3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\book4.jpg",
+      "PackagePath": "staticwebassets\\images\\book4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\book5.jpg",
+      "PackagePath": "staticwebassets\\images\\book5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\book6.jpg",
+      "PackagePath": "staticwebassets\\images\\book6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\book7.jpg",
+      "PackagePath": "staticwebassets\\images\\book7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel1.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel10.JPG",
+      "PackagePath": "staticwebassets\\images\\carousel10.JPG"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel11.jpeg",
+      "PackagePath": "staticwebassets\\images\\carousel11.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel2.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel3.png",
+      "PackagePath": "staticwebassets\\images\\carousel3.png"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel4.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel5.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel6.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel7.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel8.jpeg",
+      "PackagePath": "staticwebassets\\images\\carousel8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\carousel9.jpg",
+      "PackagePath": "staticwebassets\\images\\carousel9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\cc75c347-d15f-4b10-a350-b70db7e074db.jpg",
+      "PackagePath": "staticwebassets\\images\\cc75c347-d15f-4b10-a350-b70db7e074db.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\dc6a8ab0-2a53-4045-9630-5fd16e64b663.jpg",
+      "PackagePath": "staticwebassets\\images\\dc6a8ab0-2a53-4045-9630-5fd16e64b663.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\images\\download.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\ed97a6c6-4d8b-416c-a128-5c5b73d67963.jpg",
+      "PackagePath": "staticwebassets\\images\\ed97a6c6-4d8b-416c-a128-5c5b73d67963.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\f3f11f2de1c10930ad8afab585688a97.jpeg",
+      "PackagePath": "staticwebassets\\images\\f3f11f2de1c10930ad8afab585688a97.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\freeshippinglogo.jpg",
+      "PackagePath": "staticwebassets\\images\\freeshippinglogo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\images.jpeg",
+      "PackagePath": "staticwebassets\\images\\images.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\kidsfestival.jpg",
+      "PackagePath": "staticwebassets\\images\\kidsfestival.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\summer festival.jpeg",
+      "PackagePath": "staticwebassets\\images\\summer festival.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\images\\yearendsale.webp",
+      "PackagePath": "staticwebassets\\images\\yearendsale.webp"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\tmoim\\Downloads\\Tshego2\\ASPNETCore_DB\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ASPNETCore_DB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ASPNETCore_DB.props",
+      "PackagePath": "build\\ASPNETCore_DB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ASPNETCore_DB.props",
+      "PackagePath": "buildMultiTargeting\\ASPNETCore_DB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ASPNETCore_DB.props",
+      "PackagePath": "buildTransitive\\ASPNETCore_DB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
